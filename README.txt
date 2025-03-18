@@ -8,7 +8,7 @@ This project contains some of my Python and Python Qt Designer coursework projec
 
 
 
-TURTLE RACE GAME:
+TURTLE RACE GAME: (Temporarily removed)
 
 Code adapted from Ellie @Code of the Future
 https://www.youtube.com/watch?v=0nGwqUT43TA
